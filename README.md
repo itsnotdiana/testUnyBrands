@@ -8,6 +8,7 @@ Composer
 
 composer install
 
+## Запуск
 Помести Excel-файл (OZON_2024_review_Boxraw.xlsx) рядом со скриптом
 
 Выполни:
